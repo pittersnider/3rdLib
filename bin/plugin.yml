@@ -1,0 +1,4 @@
+name: "3rdLib"
+version: "1.0.0"
+main: "br.com.degiant.thirdLib.Main"
+author: "wernovox"
